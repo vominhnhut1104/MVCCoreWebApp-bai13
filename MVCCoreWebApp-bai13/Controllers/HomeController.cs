@@ -5,10 +5,11 @@ namespace MVCCoreWebApp_bai13.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+       //[Route("Home/Index/{id:int}")] đây là cách dùng inline ( attribute based routing) 
+        public IActionResult Index(int id)
         {
             var model = new IndexModel();
-            model.Message = "hello from model";
+            model.Message = "hello from model, ID =" +id;
             return View(model);
         }
     }

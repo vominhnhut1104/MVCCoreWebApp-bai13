@@ -1,0 +1,67 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using MVCCoreWebApp_bai13
+@using MVCCoreWebApp_bai13.Models
+@model List<ProductModel>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List product</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>Available</th>
+                <th>
+                    Price
+                </th>
+
+                <th>Promotion Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.Id</td>
+                        <td>@product.Name</td>
+                        <td>
+                            @{
+                                if (product.Available == true)
+                                {
+                                    <strong>Available</strong>
+                                }
+                                else
+                                {
+                                    <strong>Out of stock</strong>
+                                }
+                        }
+                    </td>
+                    <td>@product.Price</td>
+                    <td>@product.PromotionPrice</td>
+                </tr>
+            }
+            }
+        </tbody>
+    </table>
+    Total of products: @Model.Count
+</body>
+</html>

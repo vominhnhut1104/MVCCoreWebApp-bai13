@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Công Nghệ Net\\sample\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13.csproj": {}
+    "D:\\CongNgheNet\\sample\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13.csproj": {}
   },
   "projects": {
-    "D:\\Công Nghệ Net\\sample\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13.csproj": {
+    "D:\\CongNgheNet\\sample\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Công Nghệ Net\\sample\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13.csproj",
+        "projectUniqueName": "D:\\CongNgheNet\\sample\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13.csproj",
         "projectName": "MVCCoreWebApp-bai13",
-        "projectPath": "D:\\Công Nghệ Net\\sample\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13.csproj",
+        "projectPath": "D:\\CongNgheNet\\sample\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13.csproj",
         "packagesPath": "C:\\Users\\MINHNHAT\\.nuget\\packages\\",
-        "outputPath": "D:\\Công Nghệ Net\\sample\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13\\obj\\",
+        "outputPath": "D:\\CongNgheNet\\sample\\MVCCoreWebApp-bai13\\MVCCoreWebApp-bai13\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

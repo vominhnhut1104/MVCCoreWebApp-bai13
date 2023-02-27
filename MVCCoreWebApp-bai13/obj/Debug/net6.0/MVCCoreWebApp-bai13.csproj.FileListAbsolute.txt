@@ -24,3 +24,29 @@ D:\Công Nghệ Net\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net
 D:\Công Nghệ Net\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.pdb
 D:\Công Nghệ Net\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.genruntimeconfig.cache
 D:\Công Nghệ Net\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\ref\MVCCoreWebApp-bai13.dll
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\bin\Debug\net6.0\appsettings.Development.json
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\bin\Debug\net6.0\appsettings.json
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\bin\Debug\net6.0\MVCCoreWebApp-bai13.staticwebassets.runtime.json
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\bin\Debug\net6.0\MVCCoreWebApp-bai13.exe
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\bin\Debug\net6.0\MVCCoreWebApp-bai13.deps.json
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\bin\Debug\net6.0\MVCCoreWebApp-bai13.runtimeconfig.json
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\bin\Debug\net6.0\MVCCoreWebApp-bai13.dll
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\bin\Debug\net6.0\MVCCoreWebApp-bai13.pdb
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.csproj.AssemblyReference.cache
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.GeneratedMSBuildEditorConfig.editorconfig
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.AssemblyInfoInputs.cache
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.AssemblyInfo.cs
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.csproj.CoreCompileInputs.cache
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.MvcApplicationPartsAssemblyInfo.cache
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.RazorAssemblyInfo.cache
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.RazorAssemblyInfo.cs
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\staticwebassets.build.json
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\staticwebassets.development.json
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\scopedcss\bundle\MVCCoreWebApp-bai13.styles.css
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\scopedcss\projectbundle\MVCCoreWebApp-bai13.bundle.scp.css
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.dll
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\refint\MVCCoreWebApp-bai13.dll
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.pdb
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\MVCCoreWebApp-bai13.genruntimeconfig.cache
+D:\CongNgheNet\sample\MVCCoreWebApp-bai13\MVCCoreWebApp-bai13\obj\Debug\net6.0\ref\MVCCoreWebApp-bai13.dll
